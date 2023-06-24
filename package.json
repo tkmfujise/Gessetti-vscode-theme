@@ -1,7 +1,8 @@
 {
   "name": "gessetti-theme",
   "displayName": "Gessetti-theme",
-  "description": "VSCode dark theme",
+  "description": "VSCode dark theme inspired by blackboards and colourful chalk.",
+  "publisher": "tkmfujise",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
@@ -9,6 +10,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tkmfujise/Gessetti-vscode-theme"
+  },
   "contributes": {
     "themes": [
       {
