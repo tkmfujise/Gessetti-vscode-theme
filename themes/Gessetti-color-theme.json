@@ -1,0 +1,37 @@
+{
+	"tokenColors": "./Gessetti.tmTheme",
+	"colors": {
+		"editor.background": "#001426",
+		"editorCursor.foreground": "#FFFFFF",
+		"editor.foreground": "#FFFFFF",
+		"editorWhitespace.foreground": "#FFFFFF26",
+		"editor.lineHighlightBackground": "#00000059",
+		"editor.selectionBackground": "#B36539BF",
+
+		"editorGroupHeader.tabsBackground": "#0c2235",
+
+		// Tab
+		"tab.activeBackground": "#001426",
+    "tab.activeForeground": "#FFFFFF",
+    "tab.inactiveBackground": "#0c2235",
+    "tab.inactiveForeground": "#c9d2da",
+
+		// Sidebar
+		"sideBar.border": "#152119",
+    "sideBar.background": "#151514",
+    "sideBar.foreground": "#f9faea",
+    "sideBarSectionHeader.border": "#fff99e",
+    "sideBarSectionHeader.background": "#13324d",
+
+		// TitleBar
+		"titleBar.activeBackground": "#b0b0b4",
+    "titleBar.activeForeground": "#292830",
+
+		// StatusBar
+		"statusBar.background": "#34270e",
+    "statusBar.noFolderBackground": "#1c1b19",
+    "statusBar.debuggingBackground": "#d38416",
+    "statusBarItem.activeBackground": "#ae0331",
+	},
+	"name": "Gessetti"
+}

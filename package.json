@@ -1,0 +1,21 @@
+{
+  "name": "gessetti-theme",
+  "displayName": "Gessetti-theme",
+  "description": "VSCode dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gessetti",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gessetti-color-theme.json"
+      }
+    ]
+  }
+}
