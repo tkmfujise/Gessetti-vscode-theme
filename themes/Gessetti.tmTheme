@@ -24,23 +24,6 @@
 	<key>settings</key>
 	<array>
 		<dict>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#062037</string>
-				<key>caret</key>
-				<string>#FFFFFF</string>
-				<key>foreground</key>
-				<string>#FFFFFF</string>
-				<key>invisibles</key>
-				<string>#FFFFFF26</string>
-				<key>lineHighlight</key>
-				<string>#00000059</string>
-				<key>selection</key>
-				<string>#B36539BF</string>
-			</dict>
-		</dict>
-		<dict>
 			<key>name</key>
 			<string>Punctuation</string>
 			<key>scope</key>
@@ -115,7 +98,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFA4D7</string>
+				<string>#F9B7DC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -180,7 +163,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#44FF00</string>
+				<string>#46F009</string>
 			</dict>
 		</dict>
 		<dict>
@@ -649,7 +632,7 @@
 			<key>name</key>
 			<string>JSON Key</string>
 			<key>scope</key>
-			<string>meta.structure.dictionary.json &gt; string.quoted</string>
+			<string>string.json support.type.property-name.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -660,7 +643,7 @@
 			<key>name</key>
 			<string>JSON Key Punctuation</string>
 			<key>scope</key>
-			<string>meta.structure.dictionary.json &gt; string.quoted &gt; punctuation</string>
+			<string>string.json support.type.property-name.json punctuation</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -671,7 +654,7 @@
 			<key>name</key>
 			<string>HTML data-xxx attributes key</string>
 			<key>scope</key>
-			<string>text.html meta.attribute.data-x &gt; entity.other.attribute-name.html</string>
+			<string>text.html meta.attribute.data-x entity.other.attribute-name.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

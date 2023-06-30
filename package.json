@@ -3,7 +3,7 @@
   "displayName": "Gessetti-theme",
   "description": "VSCode dark theme inspired by blackboards and colourful chalk.",
   "publisher": "tkmfujise",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.79.0"
   },
